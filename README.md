@@ -1,1 +1,1 @@
-L01: start
+This repository is used for Git learning.
