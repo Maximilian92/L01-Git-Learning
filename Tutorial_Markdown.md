@@ -114,19 +114,3 @@ Code block:
 def greeting():
     print("Hello world!")
 ```
-
-<br>
-
-## **9. Flow diagram** 
-
-<br>
-
-```flow
-st=>start: Start
-op=>operation: Operation
-cond=>condition: Y / N?
-e=>end
-st->op->cond
-cond(Y)->e
-cond(Y)->op
-```
