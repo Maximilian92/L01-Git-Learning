@@ -17,6 +17,19 @@ Enter, Space, Space -> Line break\
 
 <br>
 
+## **0. Layout**
+
+<br>
+<div align=right>
+Right
+<div align=center>
+Center
+<div align=left>
+Left
+
+<br>
+<br>
+
 ## **1. Heading**
 
 <br>
