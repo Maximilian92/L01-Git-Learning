@@ -87,9 +87,15 @@ Method2
 
 <br>
 
+[link to picture](https://github.com/Maximilian92/L01-Git-learning/blob/master/image/Picture.png)
+
 ![Picture](https://github.com/Maximilian92/L01-Git-learning/blob/master/image/Picture.png)
 
-[link to google](http://google.com/)
+<div align=left><img src="https://github.com/Maximilian92/L01-Git-learning/blob/master/image/Picture.png" width="200"></div>
+
+<div align=center><img src="https://github.com/Maximilian92/L01-Git-learning/blob/master/image/Picture.png" width="400"></div>
+
+<div align=right><img src="https://github.com/Maximilian92/L01-Git-learning/blob/master/image/Picture.png" width="600"></div>
 
 <br>
 
